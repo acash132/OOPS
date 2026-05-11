@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="MethodType1.cs" />
     <Compile Include="MethodType2.cs" />
+    <Compile Include="MethodType3.cs" />
     <Compile Include="Nametype1.cs" />
     <Compile Include="NameType2.cs" />
     <Compile Include="Program.cs" />
