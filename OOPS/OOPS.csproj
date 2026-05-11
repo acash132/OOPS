@@ -50,6 +50,7 @@
     <Compile Include="Nametype1.cs" />
     <Compile Include="NameType2.cs" />
     <Compile Include="NameType3.cs" />
+    <Compile Include="NameType4.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
