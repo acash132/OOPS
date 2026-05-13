@@ -55,6 +55,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StaticMethod.cs" />
+    <Compile Include="Studdetails.cs" />
     <Compile Include="StudentDetails.cs" />
     <Compile Include="StudentPercentage.cs" />
   </ItemGroup>
