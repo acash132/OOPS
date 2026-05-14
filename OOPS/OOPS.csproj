@@ -46,6 +46,8 @@
     <Compile Include="Const.cs" />
     <Compile Include="ConstructorEX.cs" />
     <Compile Include="EmpDetails.cs" />
+    <Compile Include="EmpHike.cs" />
+    <Compile Include="EmpHikeConst.cs" />
     <Compile Include="Method4.cs" />
     <Compile Include="MethodType1.cs" />
     <Compile Include="MethodType2.cs" />
