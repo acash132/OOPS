@@ -57,10 +57,12 @@
     <Compile Include="NameType4.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SDDConstruct.cs" />
     <Compile Include="StaticMethod.cs" />
     <Compile Include="Studdetails.cs" />
     <Compile Include="StudentDetails.cs" />
     <Compile Include="StudentPercentage.cs" />
+    <Compile Include="UDDConst.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
