@@ -57,6 +57,7 @@
     <Compile Include="NameType2.cs" />
     <Compile Include="NameType3.cs" />
     <Compile Include="NameType4.cs" />
+    <Compile Include="ParametrisedConst.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SDDConstruct.cs" />
