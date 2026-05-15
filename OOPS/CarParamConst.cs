@@ -17,25 +17,31 @@ namespace OOPS
             model = "Honda Civic";
             year = 2025;
             color = "Black";
+          
         }
         public car(string Model, int Year, string Color)
         {
             model = Model;
             year = Year;
             color = Color;
-        }
-        public void DisplayDetails()
-        {
-            if (year >= 1886)
+            if (year < 1886)
             {
-                Console.WriteLine("Car Model: " + model);
-                Console.WriteLine("Car Year: " + year);
-                Console.WriteLine("Car Color: " + color);
+                Console.WriteLine("invalid year for a car,setting year to 1886");
+                year = 1886;
             }
             else
             {
-                Console.WriteLine("Invention before 1886");
+                year = Year;
             }
+        }
+        public void DisplayDetails()
+        {
+            
+                Console.WriteLine("Car Model: " + model);
+                Console.WriteLine("Car Year: " + year);
+                Console.WriteLine("Car Color: " + color);
+            
+            
         }
 
     }
@@ -48,7 +54,7 @@ namespace OOPS
             car1.DisplayDetails();
             Console.WriteLine();
             car2.DisplayDetails();
-            car car3 = new car("Ford ", 1800, "Red");
+            car car3 = new car("Ford Mustang", 1885, "Red");
             car3.DisplayDetails();
         }
     }
