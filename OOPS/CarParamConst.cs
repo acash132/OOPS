@@ -26,9 +26,16 @@ namespace OOPS
         }
         public void DisplayDetails()
         {
-            Console.WriteLine("Car Model: " + model);
-            Console.WriteLine("Car Year: " + year);
-            Console.WriteLine("Car Color: " + color);
+            if (year >= 1886)
+            {
+                Console.WriteLine("Car Model: " + model);
+                Console.WriteLine("Car Year: " + year);
+                Console.WriteLine("Car Color: " + color);
+            }
+            else
+            {
+                Console.WriteLine("Invention before 1886");
+            }
         }
 
     }
@@ -41,6 +48,8 @@ namespace OOPS
             car1.DisplayDetails();
             Console.WriteLine();
             car2.DisplayDetails();
+            car car3 = new car("Ford ", 1800, "Red");
+            car3.DisplayDetails();
         }
     }
 }
