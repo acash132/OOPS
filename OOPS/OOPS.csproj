@@ -65,6 +65,7 @@
     <Compile Include="Studdetails.cs" />
     <Compile Include="StudentDetails.cs" />
     <Compile Include="StudentPercentage.cs" />
+    <Compile Include="StuDetails.cs" />
     <Compile Include="UDDConst.cs" />
   </ItemGroup>
   <ItemGroup>
