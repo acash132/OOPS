@@ -19,6 +19,14 @@ namespace OOPS
         }
 
     }
+    class NewClass
+    {
+        public void Show()
+        {
+            MyClass obj = new MyClass();
+            Console.WriteLine("Accessing internal member a: " + obj.a);
+        }
+    }
     internal class InternalAM
     {
         static void Main(string[] args)
