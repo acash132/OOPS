@@ -47,6 +47,7 @@
     <Compile Include="Const.cs" />
     <Compile Include="ConstOverload.cs" />
     <Compile Include="ConstructorEX.cs" />
+    <Compile Include="CopyConstructorEx.cs" />
     <Compile Include="EmpDetails.cs" />
     <Compile Include="EmpHike.cs" />
     <Compile Include="EmpHikeConst.cs" />
