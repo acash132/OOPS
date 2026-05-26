@@ -70,6 +70,7 @@
     <Compile Include="ProtectedAM.cs" />
     <Compile Include="ProtectedAmBase.cs" />
     <Compile Include="SDDConstruct.cs" />
+    <Compile Include="StaticConstructorEx.cs" />
     <Compile Include="StaticMethod.cs" />
     <Compile Include="Studdetails.cs" />
     <Compile Include="StudentDetails.cs" />
