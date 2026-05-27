@@ -73,6 +73,7 @@ namespace OOPS
             AccountExWithPIN myAccount = new AccountExWithPIN("1234");
             myAccount.Deposit(1000, "1234");
             myAccount.Withdraw(200, "1234");
+            myAccount.Withdraw(10, "123");
             Console.WriteLine($"Current Balance: {myAccount.GetBalance("1234")}");
         }
     }
