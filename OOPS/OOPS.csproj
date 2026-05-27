@@ -52,6 +52,7 @@
     <Compile Include="EmpDetails.cs" />
     <Compile Include="EmpHike.cs" />
     <Compile Include="EmpHikeConst.cs" />
+    <Compile Include="EncapsulationAccountExWithPIN.cs" />
     <Compile Include="EncapsulationExample.cs" />
     <Compile Include="InternalAM.cs" />
     <Compile Include="Method4.cs" />
