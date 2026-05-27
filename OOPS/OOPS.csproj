@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractionEx.cs" />
     <Compile Include="CarParamConst.cs" />
     <Compile Include="Const.cs" />
     <Compile Include="ConstOverload.cs" />
@@ -54,6 +55,7 @@
     <Compile Include="EmpHikeConst.cs" />
     <Compile Include="EncapsulationAccountExWithPIN.cs" />
     <Compile Include="EncapsulationExample.cs" />
+    <Compile Include="HMS.cs" />
     <Compile Include="InternalAM.cs" />
     <Compile Include="Method4.cs" />
     <Compile Include="MethodType1.cs" />
@@ -66,6 +68,7 @@
     <Compile Include="NameType4.cs" />
     <Compile Include="ParameterRealEX.cs" />
     <Compile Include="ParametrisedConst.cs" />
+    <Compile Include="PatientRecordEncap.cs" />
     <Compile Include="PrintConnString.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
