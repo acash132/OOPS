@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AbsEx2.cs" />
+    <Compile Include="AbsRTE.cs" />
     <Compile Include="AbstractionEx.cs" />
     <Compile Include="CarParamConst.cs" />
     <Compile Include="Const.cs" />
