@@ -46,6 +46,7 @@
     <Compile Include="AbsEx2.cs" />
     <Compile Include="AbsRTE.cs" />
     <Compile Include="AbstractionEx.cs" />
+    <Compile Include="Abstraction_ElecticityBill.cs" />
     <Compile Include="CarParamConst.cs" />
     <Compile Include="Const.cs" />
     <Compile Include="ConstOverload.cs" />
