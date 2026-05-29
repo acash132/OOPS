@@ -51,6 +51,7 @@
     <Compile Include="Const.cs" />
     <Compile Include="ConstOverload.cs" />
     <Compile Include="ConstructorEX.cs" />
+    <Compile Include="Constructor_AbsClass.cs" />
     <Compile Include="Copy1.cs" />
     <Compile Include="CopyConstructorEx.cs" />
     <Compile Include="EmpDetails.cs" />
@@ -69,6 +70,7 @@
     <Compile Include="NameType2.cs" />
     <Compile Include="NameType3.cs" />
     <Compile Include="NameType4.cs" />
+    <Compile Include="OOPS1.cs" />
     <Compile Include="ParameterRealEX.cs" />
     <Compile Include="ParametrisedConst.cs" />
     <Compile Include="PatientRecordEncap.cs" />
