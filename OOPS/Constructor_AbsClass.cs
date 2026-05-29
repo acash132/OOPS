@@ -32,6 +32,11 @@ namespace OOPS
 
         }
 
+        public void StudentRoll()
+        {
+            Console.WriteLine("Student Roll no" + RollNo);
+        }
+
         public override void Role()
         {
             Console.WriteLine("Iam a Student");
@@ -42,6 +47,7 @@ namespace OOPS
         static void Main()
         {
             Student s = new Student("Akash", 22, 100);
+            s.StudentRoll();
             s.DisplayInfo();
             s.Role();
         }
