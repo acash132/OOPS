@@ -89,6 +89,11 @@
     <Compile Include="StuDetails.cs" />
     <Compile Include="StudParamConst.cs" />
     <Compile Include="Task1.cs" />
+    <Compile Include="Task1BankAc.cs" />
+    <Compile Include="Task1Variables_Methods.cs" />
+    <Compile Include="Task2StaticVariableDemo.cs" />
+    <Compile Include="Task3_ConstructorOverloading.cs" />
+    <Compile Include="Task4_AbstractClass_Methods.cs" />
     <Compile Include="UDDConst.cs" />
   </ItemGroup>
   <ItemGroup>
