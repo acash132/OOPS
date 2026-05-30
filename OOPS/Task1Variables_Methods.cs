@@ -38,7 +38,7 @@
 //            }
 //        }
 
-//        // Method to withdraw money
+//        
 //        public void Withdraw(decimal amount)
 //        {
 //            if (amount <= 0)
@@ -69,14 +69,14 @@
        
 //            static void Main()
 //            {
-//                // 1. Initialize the static variable (Only needs to be done once)
+//                
 //                BankAccount.BankName = "Axis Bank";
 
-//                // 2. Create instance objects
+//                
 //                BankAccount account1 = new BankAccount("101", 50000m);
 //                BankAccount account2 = new BankAccount("102", 120000m);
 
-//                // 3. Display initial states
+//                
 //                Console.WriteLine("--- Initial Account Information ---");
 //                account1.DisplayAccountInfo();
 //                account2.DisplayAccountInfo();
@@ -89,7 +89,7 @@
 //                Console.WriteLine("--- Transactions for Account 2 ---");
 //                account2.Withdraw(200m);
 
-//                // 4. Display final states
+//                
 //                Console.WriteLine("--- Final Account Information ---");
 //                account1.DisplayAccountInfo();
 //                account2.DisplayAccountInfo();
