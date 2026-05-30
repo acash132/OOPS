@@ -62,8 +62,7 @@
 
 //    internal class Task4_AbstractClass_Methods
 //    {
-//        class Program
-//        {
+//        
 //            static void Main()
 //            {
 //                Console.WriteLine("Abstract Class Demo");
