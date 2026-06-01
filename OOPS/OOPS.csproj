@@ -60,6 +60,7 @@
     <Compile Include="EmpHikeConst.cs" />
     <Compile Include="EncapsulationAccountExWithPIN.cs" />
     <Compile Include="EncapsulationExample.cs" />
+    <Compile Include="ExpressionBodiedMembersEx.cs" />
     <Compile Include="HMS.cs" />
     <Compile Include="InterfaceEx.cs" />
     <Compile Include="InterfacesDefaultMethod.cs" />
