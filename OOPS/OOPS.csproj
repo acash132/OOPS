@@ -79,6 +79,7 @@
     <Compile Include="ParameterRealEX.cs" />
     <Compile Include="ParametrisedConst.cs" />
     <Compile Include="PatientRecordEncap.cs" />
+    <Compile Include="PaymentGatewayInterfaces.cs" />
     <Compile Include="PrintConnString.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
