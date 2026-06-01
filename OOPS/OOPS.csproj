@@ -62,6 +62,7 @@
     <Compile Include="EncapsulationExample.cs" />
     <Compile Include="HMS.cs" />
     <Compile Include="InterfaceEx.cs" />
+    <Compile Include="InterfacesDefaultMethod.cs" />
     <Compile Include="InternalAM.cs" />
     <Compile Include="Method4.cs" />
     <Compile Include="MethodType1.cs" />
