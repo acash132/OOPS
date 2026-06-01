@@ -61,6 +61,7 @@
     <Compile Include="EncapsulationAccountExWithPIN.cs" />
     <Compile Include="EncapsulationExample.cs" />
     <Compile Include="HMS.cs" />
+    <Compile Include="InterfaceEx.cs" />
     <Compile Include="InternalAM.cs" />
     <Compile Include="Method4.cs" />
     <Compile Include="MethodType1.cs" />

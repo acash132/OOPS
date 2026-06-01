@@ -36,7 +36,7 @@
 
 //        public override double CalculateArea()
 //        {
-            
+
 //            return Math.PI * Radius * Radius;
 //        }
 //    }
@@ -54,7 +54,7 @@
 
 //        public override double CalculateArea()
 //        {
-            
+
 //            return Length * Breadth;
 //        }
 //    }
@@ -62,22 +62,22 @@
 
 //    internal class Task4_AbstractClass_Methods
 //    {
-//        
-//            static void Main()
-//            {
-//                Console.WriteLine("Abstract Class Demo");
 
-//                Shape myCircle = new Circle("Circle", 5);
-//                Shape myRectangle = new Rectangle("Rectangle", 4, 6);
+//        static void Main()
+//        {
+//            Console.WriteLine("Abstract Class Demo");
 
-//                myCircle.DisplayShapeInfo();
-//                Console.WriteLine($"Area: {myCircle.CalculateArea()}");
+//            Shape myCircle = new Circle("Circle", 5);
+//            Shape myRectangle = new Rectangle("Rectangle", 4, 6);
 
-//                myRectangle.DisplayShapeInfo();
-//                Console.WriteLine($"Area: {myRectangle.CalculateArea()}");
+//            myCircle.DisplayShapeInfo();
+//            Console.WriteLine($"Area: {myCircle.CalculateArea()}");
 
-                 
-//            }
+//            myRectangle.DisplayShapeInfo();
+//            Console.WriteLine($"Area: {myRectangle.CalculateArea()}");
+
+
 //        }
 //    }
 //}
+

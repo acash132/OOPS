@@ -38,7 +38,7 @@
 //            }
 //        }
 
-//        
+
 //        public void Withdraw(decimal amount)
 //        {
 //            if (amount <= 0)
@@ -56,44 +56,44 @@
 //            }
 //        }
 
-        
+
 //        public void DisplayAccountInfo()
 //        {
 //            Console.WriteLine($"Bank: {BankName} , AccNo: {AccNo} , Balance: {Balance}");
 //        }
 //    }
 
-    
+
 //    internal class Task1Variables_Methods
 //    {
-       
-//            static void Main()
-//            {
-//                
-//                BankAccount.BankName = "Axis Bank";
 
-//                
-//                BankAccount account1 = new BankAccount("101", 50000m);
-//                BankAccount account2 = new BankAccount("102", 120000m);
+//        static void Main()
+//        {
 
-//                
-//                Console.WriteLine("--- Initial Account Information ---");
-//                account1.DisplayAccountInfo();
-//                account2.DisplayAccountInfo();
+//            BankAccount.BankName = "Axis Bank";
 
-//                Console.WriteLine("--- Transactions for Account 1 ---");
-//                account1.Deposit(150m);
-//                account1.Withdraw(50m);
-//                account1.Withdraw(1000m); 
 
-//                Console.WriteLine("--- Transactions for Account 2 ---");
-//                account2.Withdraw(200m);
+//            BankAccount account1 = new BankAccount("101", 50000m);
+//            BankAccount account2 = new BankAccount("102", 120000m);
 
-//                
-//                Console.WriteLine("--- Final Account Information ---");
-//                account1.DisplayAccountInfo();
-//                account2.DisplayAccountInfo();
-//            }
-        
+
+//            Console.WriteLine("--- Initial Account Information ---");
+//            account1.DisplayAccountInfo();
+//            account2.DisplayAccountInfo();
+
+//            Console.WriteLine("--- Transactions for Account 1 ---");
+//            account1.Deposit(150m);
+//            account1.Withdraw(50m);
+//            account1.Withdraw(1000m);
+
+//            Console.WriteLine("--- Transactions for Account 2 ---");
+//            account2.Withdraw(200m);
+
+
+//            Console.WriteLine("--- Final Account Information ---");
+//            account1.DisplayAccountInfo();
+//            account2.DisplayAccountInfo();
+//        }
+
 //    }
 //}
