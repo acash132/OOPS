@@ -70,6 +70,7 @@
     <Compile Include="MethodType2.cs" />
     <Compile Include="MethodType3.cs" />
     <Compile Include="Methodtypes.cs" />
+    <Compile Include="MultiLevelInheritance.cs" />
     <Compile Include="MultipleInheritanceWithInterfaces.cs" />
     <Compile Include="Nametype1.cs" />
     <Compile Include="NameType2.cs" />
@@ -86,6 +87,7 @@
     <Compile Include="ProtectedAM.cs" />
     <Compile Include="ProtectedAmBase.cs" />
     <Compile Include="SDDConstruct.cs" />
+    <Compile Include="SingleInheritance.cs" />
     <Compile Include="StaticConstructorEx.cs" />
     <Compile Include="StaticMethod.cs" />
     <Compile Include="Studdetails.cs" />
