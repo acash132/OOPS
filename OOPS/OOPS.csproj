@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>OOPS.HMS1.Program</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -55,6 +58,7 @@
     <Compile Include="Constructor_AbsClass.cs" />
     <Compile Include="Copy1.cs" />
     <Compile Include="CopyConstructorEx.cs" />
+    <Compile Include="ExceptionHandlingEx1.cs" />
     <Compile Include="EmpDetails.cs" />
     <Compile Include="EmpHike.cs" />
     <Compile Include="EmpHikeConst.cs" />
@@ -62,6 +66,8 @@
     <Compile Include="EncapsulationExample.cs" />
     <Compile Include="ExpressionBodiedMembersEx.cs" />
     <Compile Include="HMS.cs" />
+    <Compile Include="HMS1.cs" />
+    <Compile Include="HMS2.cs" />
     <Compile Include="InterfaceEx.cs" />
     <Compile Include="InterfacesDefaultMethod.cs" />
     <Compile Include="InternalAM.cs" />
@@ -77,6 +83,7 @@
     <Compile Include="NameType3.cs" />
     <Compile Include="NameType4.cs" />
     <Compile Include="OOPS1.cs" />
+    <Compile Include="OverRiding.cs" />
     <Compile Include="ParameterRealEX.cs" />
     <Compile Include="ParametrisedConst.cs" />
     <Compile Include="PatientRecordEncap.cs" />
