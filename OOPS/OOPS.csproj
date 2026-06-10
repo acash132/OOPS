@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>OOPS.HMS1.Program</StartupObject>
+    <StartupObject>OOPS.SealedClsEx2.SealedClassExample</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -52,6 +52,7 @@
     <Compile Include="Abstraction_ElecticityBill.cs" />
     <Compile Include="AbstractSingleInheritanceEx.cs" />
     <Compile Include="CarParamConst.cs" />
+    <Compile Include="CBV.cs" />
     <Compile Include="Const.cs" />
     <Compile Include="ConstOverload.cs" />
     <Compile Include="ConstructorEX.cs" />
@@ -94,6 +95,8 @@
     <Compile Include="ProtectedAM.cs" />
     <Compile Include="ProtectedAmBase.cs" />
     <Compile Include="SDDConstruct.cs" />
+    <Compile Include="SealedClassEx1.cs" />
+    <Compile Include="SealedClsEx2.cs" />
     <Compile Include="SingleInheritance.cs" />
     <Compile Include="StaticConstructorEx.cs" />
     <Compile Include="StaticMethod.cs" />
