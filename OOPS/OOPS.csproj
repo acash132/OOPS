@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>OOPS.SealedClsEx2.SealedClassExample</StartupObject>
+    <StartupObject>OOPS.GenericClassesEx1</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -66,6 +66,9 @@
     <Compile Include="EncapsulationAccountExWithPIN.cs" />
     <Compile Include="EncapsulationExample.cs" />
     <Compile Include="ExpressionBodiedMembersEx.cs" />
+    <Compile Include="GenericClassesEx1.cs" />
+    <Compile Include="GenericClassEx1.cs" />
+    <Compile Include="GenericEx2.cs" />
     <Compile Include="HMS.cs" />
     <Compile Include="HMS1.cs" />
     <Compile Include="HMS2.cs" />
@@ -79,6 +82,7 @@
     <Compile Include="Methodtypes.cs" />
     <Compile Include="MultiLevelInheritance.cs" />
     <Compile Include="MultipleInheritanceWithInterfaces.cs" />
+    <Compile Include="MultiTypeGenerics.cs" />
     <Compile Include="Nametype1.cs" />
     <Compile Include="NameType2.cs" />
     <Compile Include="NameType3.cs" />
